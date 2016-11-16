@@ -1,0 +1,15 @@
+{
+  "name": "services",
+  "version": "1.0.0",
+  "description": "project to build various micro services and build architecture over it",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "services",
+    "library"
+  ],
+  "author": "Manju S V",
+  "license": "ISC"
+}
